@@ -3,7 +3,7 @@
     <h1>Art</h1>
 
     <div style="margin-bottom: 30px;">
-      And here are some other art stuff that I've made.
+      I enjoy sketching, designing and making illustrations as well so here are some of the art works that I have created.
     </div>
     <ProjectsList v-bind:projects="projects" />
   </div>
