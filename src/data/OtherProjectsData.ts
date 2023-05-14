@@ -62,7 +62,7 @@ export default [
             </div>`, "#1ca1e2", false, true),
 
 
-    new ProjectData("project-9", "Draw", "https://raw.githubusercontent.com/hurshh/Flutter-drawing-board/main/assets/screenshots/ss2.png", `
+    new ProjectData("project-9", "Draw", "https://user-images.githubusercontent.com/75796695/238177327-7d60938b-16ac-418a-95fc-a241406047dd.png", `
      <div class="paragraph">
                 <strong>Built A simple drawing app made with Flutter Try out the DEMO here</strong>
             </div>
@@ -83,8 +83,8 @@ export default [
             </div>
             
     <div class="paragraph center">
-                <img style="width: 100%" class="pc-screenshot" src="https://raw.githubusercontent.com/hurshh/Flutter-drawing-board/main/assets/screenshots/ss2.png" alt="The Art of Walking Screenshot" />
-                <img style="width: 100%" class="pc-screenshot" src="https://raw.githubusercontent.com/hurshh/Flutter-drawing-board/main/assets/screenshots/ss1.png" alt="The Art of Walking Screenshot" />
+                <img style="width: 100%" class="pc-screenshot" src="https://user-images.githubusercontent.com/75796695/238177327-7d60938b-16ac-418a-95fc-a241406047dd.png" alt="The Art of Walking Screenshot" />
+                <img style="width: 100%" class="pc-screenshot" src="https://user-images.githubusercontent.com/75796695/238177418-79363b36-2bd4-4b0d-98d1-b2b82230c567.png" alt="The Art of Walking Screenshot" />
                 
                 
             </div>
