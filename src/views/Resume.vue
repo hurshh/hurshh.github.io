@@ -3,7 +3,7 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>Harsh Rao</strong>, a versatile developer and designer with a passion for gaming, app development, and web design, I am eager to explore new opportunities through internships and collaboration with like-minded professionals, including hackathons and competitions.
+      I'm <strong>Harsh Rao</strong>, a versatile developer and designer with a passion for app, game and web development and web design, I am eager to explore new opportunities through internships and collaboration with like-minded professionals, including hackathons and competitions.
       <br />
       <br />I am currently seeking internship opportunities where I can further develop my skills and gain valuable real-world experience. I am also open to collaborating with others on projects, whether it's a hackathon, competition, or simply working together on a freelance basis. My passion for technology and design drives me to continually improve and explore new possibilities, and I look forward to contributing my expertise to new and exciting projects. If you have any opportunity feel free to
       <router-link to="/contact">contact me</router-link>.
@@ -22,13 +22,35 @@
     <div style="clear:both"></div>
 
     <div class="full-content">
+
       <h2>Work experience</h2>
 
-      <h3>Open Source Contributor</h3>
+      <h3>JIO india</h3>
+      <h4>2023-present</h4>
+      <br>
+      <div>
+        During my internship at Jio India, I had the opportunity to work on their Geographic Information System (GIS) system, specifically focusing on network design. As an intern, I actively contributed to the development and enhancement of the GIS system.
+        <br>
+        My responsibilities included analyzing geographical data, mapping network components, and utilizing GIS tools to create accurate and efficient network designs and leveraging my technical skills and knowledge of Machine Learning.
+      </div>
+      <br>
+      <div class="tech-stack">Tech Stack : Keras, Tensorflow</div>
+
+
+
+
+
+      <h3>SWOC (Open Source Contributor)</h3>
       <h4>2021-2022</h4>
+      <br>
+      <div>Contributed to an opensource book lending and buying platform, where I played a key role to develop and refine UI/UX ,helped making routes between pages and managing API functions
+        <br>
+        I was tasked with creating a new UI design and implementing it to enhance the app's usability and visual appeal. Additionally, I contributed to the improvement of the codebase by refactoring and optimizing sections of the app's code.
+        <br>
+        I created mockups and wireframes that captured the desired look and feel of the app., I implemented the new UI design, ensuring a seamless and intuitive user experience that enhanced the user experience, making the app more visually appealing and user-friendly.
 
-      <div>Contributed to an opensource book lending and buying platform, where I played a key role to develop and refine UI/UX ,helped making routes between pages and managing API functions</div>
-
+      </div>
+      <br>
       <div class="tech-stack">Tech Stack : Flutter, Figma, Kotlin</div>
 
 
