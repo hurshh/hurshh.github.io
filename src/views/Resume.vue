@@ -26,7 +26,7 @@
       <h2>Work experience</h2>
 
       <h3>JIO india</h3>
-      <h4>2023-present</h4>
+      <h4>05/2023-07/2023</h4>
       <br>
       <div>
         During my internship at Jio India, I had the opportunity to work on their Geographic Information System (GIS) system, specifically focusing on network design. As an intern, I actively contributed to the development and enhancement of the GIS system.
@@ -41,7 +41,7 @@
 
 
       <h3>SWOC (Open Source Contributor)</h3>
-      <h4>2021-2022</h4>
+      <h4>12/2021-02/2022</h4>
       <br>
       <div>Contributed to an opensource book lending and buying platform, where I played a key role to develop and refine UI/UX ,helped making routes between pages and managing API functions
         <br>
@@ -67,13 +67,13 @@
         <SkillRate name="DSA" :rate="4" />
       </div>
 
-      <div class="skill-set">
+<!--      <div class="skill-set">
         <h3>Non-Tech</h3>
         <SkillRate name="Binge watching" :rate="4" />
         <SkillRate name="Skateboarding" :rate="3" />
         <SkillRate name="Seduction" :rate="1" />
         <SkillRate name="Sense of humor" :rate="3" />
-      </div>
+      </div>-->
       <div style="clear:both" />
 
       <h2>Education</h2>
