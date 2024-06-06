@@ -8,7 +8,7 @@
     <ul>
       <li>
         <i class="fa fa-user-circle-o fa-lg fa-fw"></i>
-        <a href="http://harshrao.me" target="_blank">https://harshrao.me</a>
+        <a href="http://harshrao.xyz" target="_blank">https://harshrao.xyz</a>
       </li>
       <li>
         <i class="fa fa-envelope-o fa-lg fa-fw"></i>
