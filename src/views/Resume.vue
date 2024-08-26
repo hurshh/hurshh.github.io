@@ -11,7 +11,7 @@
       <br />Besides development, I'm passionate about skateboarding, basketball, anime, gym and food.
 
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/harsh_rao_resume.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
+        <a class="download-link" href="d/Harsh_Resume.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
         <div style="clear:both"></div>
       </div>
     </div>
@@ -25,33 +25,35 @@
 
       <h2>Work experience</h2>
 
+
+      <h3>Creatosaurus</h3>
+      <h4>01/2024-06/2024</h4>
+      <br>
+      <div>
+        <ul>
+          <li>Analyzed various open-source image generation model like Stable Diffusion, Craiyon and Invoke.</li>
+          <li>Conducted data prepossessing, cleaning, and filtering for creating checkpoints for Stable Diffusion model.</li>
+          <li>Deployed a Stable Diffusion model on SageMaker and created API endpoints using FastAPI.</li>
+          <li>Prepared user flows, wireframes, prototypes, and design mockups to visualize and iterate on user interface designs of the mobile app.</li>
+          <li>Integrated and tested API into prototype mobile app</li>
+        </ul>
+      </div>
+      <br>
+
       <h3>JIO india</h3>
       <h4>05/2023-07/2023</h4>
       <br>
       <div>
-        During my internship at Jio India, I had the opportunity to work on their Geographic Information System (GIS) system, specifically focusing on network design. As an intern, I actively contributed to the development and enhancement of the GIS system.
-        <br>
-        My responsibilities included analyzing geographical data, mapping network components, and utilizing GIS tools to create accurate and efficient network designs and leveraging my technical skills and knowledge of Machine Learning.
+        <ul>
+          <li>Led migration from legacy JSP pages to React. </li>
+          <li>Implemented RESTful APIs in Spring Boot.</li>
+          <li>Reduced page load times by over 30% through efficient component-based architecture.</li>
+          <li>Coordinated with cross-functional teams to ensure smooth deployment and integration of new technologies.</li>
+        </ul>
       </div>
       <br>
-      <div class="tech-stack">Tech Stack : Keras, Tensorflow</div>
 
 
-
-
-
-      <h3>SWOC (Open Source Contributor)</h3>
-      <h4>12/2021-02/2022</h4>
-      <br>
-      <div>Contributed to an opensource book lending and buying platform, where I played a key role to develop and refine UI/UX ,helped making routes between pages and managing API functions
-        <br>
-        I was tasked with creating a new UI design and implementing it to enhance the app's usability and visual appeal. Additionally, I contributed to the improvement of the codebase by refactoring and optimizing sections of the app's code.
-        <br>
-        I created mockups and wireframes that captured the desired look and feel of the app., I implemented the new UI design, ensuring a seamless and intuitive user experience that enhanced the user experience, making the app more visually appealing and user-friendly.
-
-      </div>
-      <br>
-      <div class="tech-stack">Tech Stack : Flutter, Figma, Kotlin</div>
 
 
 
@@ -60,27 +62,31 @@
       <div class="skill-set">
         <h3>Tech</h3>
         <SkillRate name="Flutter" :rate="5" />
-        <SkillRate name="React" :rate="3" />
+        <SkillRate name="React" :rate="4" />
         <SkillRate name="Unity" :rate="5" />
         <SkillRate name="Figma" :rate="4" />
-        <SkillRate name="Java" :rate="4" />
-        <SkillRate name="DSA" :rate="4" />
+        <SkillRate name="Java" :rate="5" />
+        <SkillRate name="DSA" :rate="5" />
       </div>
 
-<!--      <div class="skill-set">
-        <h3>Non-Tech</h3>
-        <SkillRate name="Binge watching" :rate="4" />
-        <SkillRate name="Skateboarding" :rate="3" />
-        <SkillRate name="Seduction" :rate="1" />
-        <SkillRate name="Sense of humor" :rate="3" />
-      </div>-->
+<!--      <div class="skill-set">-->
+<!--        <h3>Non-Tech</h3>-->
+<!--        <SkillRate name="Binge watching" :rate="5" />-->
+<!--        <SkillRate name="Skateboarding" :rate="4" />-->
+<!--        <SkillRate name="" :rate="1" />-->
+<!--        <SkillRate name="Sense of humor" :rate="4" />-->
+<!--      </div>-->
       <div style="clear:both" />
 
       <h2>Education</h2>
 
-      <h3>B.Tech (2020-Present)</h3>
-      <h4>Computer Science (IIIT, Surat)</h4>
-      <div>cgpa - 8.97</div>
+      <h3>B.Tech (2024-Present)</h3>
+      <h4>Ms. Computer Science (Santa Clara University, CA)</h4>
+<!--      <div>CGPA - 4</div>-->
+
+      <h3>B.Tech (2020-2024)</h3>
+      <h4>B.Tech Computer Science (IIIT, Surat)</h4>
+      <div>CGPA - 8.93</div>
 
       <h3>High School</h3>
       <h4>Edunova (Ahmedabad)</h4>

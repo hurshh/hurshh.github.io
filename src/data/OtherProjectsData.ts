@@ -3,7 +3,7 @@ import ProjectData from '@/data/ProjectData.ts'
 export default [
     new ProjectData("project-6", "Healt-E", "https://camo.githubusercontent.com/7dce4042f91edc9126271e98e161a27d3de3f6435aad426cb22a4cfe238b9e2f/68747470733a2f2f692e696d6775722e636f6d2f507361783349712e706e67", `
     <div class="paragraph">
-      <strong>HEALTH-E</strong> is a Flutter app developed by harsh rao and parth thapliyal as part of devHeat hackathon organized by iiitsurat this app serves as a quick link between patients and doctors around world and puts you in touch with a doctor which can help patient in early diagnosis of the situation
+      <strong>HEALTH-E</strong> is a Flutter app developed as part of devHeat hackathon organized by IIIT Surat this app serves as a quick link between patients and doctors around world and puts you in touch with a doctor which can help patient in early diagnosis of the situation
       <br/><strong>Video </strong> <a href="https://drive.google.com/drive/u/0/folders/1Yrf3RDyX2q-gqVH3Is8eEKOcgtgkyynP" target="blank">Link</a>.
             </div>
             
