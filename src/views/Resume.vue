@@ -3,12 +3,14 @@
     <h1>Resume</h1>
 
     <div class="paragraph">
-      I'm <strong>Harsh Rao</strong>, a versatile developer and designer with a passion for app, game and web development and web design, I am eager to explore new opportunities through internships and collaboration with like-minded professionals, including hackathons and competitions.
+      I'm <strong>Harsh Rao</strong>, a developer and designer with passion for app, game and web development and web design, I am exploring new opportunities through internships and collaboration with professionals, including hackathons and competitions.
       <br />
-      <br />I am currently seeking internship opportunities where I can further develop my skills and gain valuable real-world experience. I am also open to collaborating with others on projects, whether it's a hackathon, competition, or simply working together on a freelance basis. My passion for technology and design drives me to continually improve and explore new possibilities, and I look forward to contributing my expertise to new and exciting projects. If you have any opportunity feel free to
+      <br />I’ve worked on projects using Unreal Engine, Flutter, and React, building a solid foundation in game development. I’m excited about AI and machine learning in games and have experience with databases, scripting, and web scraping.
+      <br />
+      <br />I am currently seeking internship opportunities where I can gain real-world experience. My passion for technology and design drives me to continually improve and explore new possibilities, and I look forward to contributing my expertise to new and exciting projects. If you have any opportunity feel free to
       <router-link to="/contact">contact me</router-link>.
       <br />
-      <br />Besides development, I'm passionate about skateboarding, basketball, anime, gym and food.
+      <br />Besides development, I'm passionate about skateboarding, basketball, anime, powerlifting.
 
       <div style="margin-top:20px; margin-bottom:20px;">
         <a class="download-link" href="d/Harsh_Resume.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
@@ -60,43 +62,43 @@
       <h2>Skills</h2>
 
       <div class="skill-set">
-        <h3>Tech</h3>
-        <SkillRate name="Flutter" :rate="5" />
-        <SkillRate name="React" :rate="4" />
-        <SkillRate name="Unity" :rate="5" />
-        <SkillRate name="Figma" :rate="4" />
-        <SkillRate name="Java" :rate="5" />
-        <SkillRate name="DSA" :rate="5" />
+<!--        <h3>Tech</h3>-->
+        <SkillRate name="Flutter" />
+        <SkillRate name="React" />
+        <SkillRate name="Unity" />
+        <SkillRate name="Figma" />
+        <SkillRate name="Java"  />
+        <SkillRate name="DSA" />
       </div>
 
 <!--      <div class="skill-set">-->
 <!--        <h3>Non-Tech</h3>-->
 <!--        <SkillRate name="Binge watching" :rate="5" />-->
 <!--        <SkillRate name="Skateboarding" :rate="4" />-->
-<!--        <SkillRate name="" :rate="1" />-->
+<!--        <SkillRate name="Seduction" :rate="1" />-->
 <!--        <SkillRate name="Sense of humor" :rate="4" />-->
 <!--      </div>-->
       <div style="clear:both" />
 
       <h2>Education</h2>
 
-      <h3>B.Tech (2024-Present)</h3>
-      <h4>Ms. Computer Science (Santa Clara University, CA)</h4>
-<!--      <div>CGPA - 4</div>-->
+      <h3>M.S (2024-Present)</h3>
+      <h4>Computer Science and Engineering (Santa Clara University, CA)</h4>
+      <div>CGPA - 4</div>
 
       <h3>B.Tech (2020-2024)</h3>
-      <h4>B.Tech Computer Science (IIIT, Surat)</h4>
-      <div>CGPA - 8.93</div>
+      <h4>Computer Science and Engineering(IIIT, Surat)</h4>
+      <div>CGPA - 8.97</div>
 
       <h3>High School</h3>
       <h4>Edunova (Ahmedabad)</h4>
-      <div>percentage - 80%</div>
+      <div>percentage - 83%</div>
 
 
 
       <h2>Besides...</h2>
       <div>
-        <h3>I ❤️</h3>
+        <h3>I love️</h3>
         <div>Gaming</div>
         <div>Working Out</div>
         <div>Cooking</div>

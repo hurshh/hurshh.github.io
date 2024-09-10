@@ -1,8 +1,8 @@
 <template>
   <div class="footer">
     
-    <div class="left">Made with ❤️ by Harsh</div>
-    <div class="right">Reach me at <a href="mailto:hurshrao@gmail.com">hurshrao@gmail.com</a> or <router-link to="/contact">through here</router-link></div>
+    <div class="left"> <strong>Made with ❤️ by Harsh</strong></div>
+    <div class="right" > <strong>Reach me at <a href="mailto:hurshrao@gmail.com">hurshrao@gmail.com</a> or <router-link to="/contact">through here</router-link></strong></div>
   </div>
 </template>
 
@@ -20,10 +20,15 @@ export default Vue.extend({
 
 .footer {
   background-color: @bodyBgColor;
+  color: #ffffff;
   width: 100%;
   font-size: 0.8em;
   opacity: 0.7;
   padding-bottom: 30px;
+}
+
+.footer a{
+  color: #FFFCFF;
 }
 
 .left, .right {

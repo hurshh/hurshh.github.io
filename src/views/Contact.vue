@@ -28,7 +28,7 @@
       </li>
       <li>
         <i class="fa fa-phone fa-lg fa-fw"></i>
-        <a href="/" target="_blank">+91-6351590789</a>
+        <a href="/" target="_blank">+1 (669)273-5294</a>
       </li>
     </ul>
 
