@@ -18,7 +18,7 @@
       </div>
     </div>
     <div class="photo">
-      <img src="img/resume-photo.png" alt="Photo of John" />
+      <img src="img/avv.png" alt="Photo of John" />
     </div>
 
     <div style="clear:both"></div>
@@ -29,28 +29,53 @@
 
 
       <h3>Creatosaurus</h3>
+      <h4>Software Developer Intern</h4>
       <h4>01/2024-06/2024</h4>
       <br>
       <div>
         <ul>
-          <li>Analyzed various open-source image generation model like Stable Diffusion, Craiyon and Invoke.</li>
-          <li>Conducted data prepossessing, cleaning, and filtering for creating checkpoints for Stable Diffusion model.</li>
-          <li>Deployed a Stable Diffusion model on SageMaker and created API endpoints using FastAPI.</li>
-          <li>Prepared user flows, wireframes, prototypes, and design mockups to visualize and iterate on user interface designs of the mobile app.</li>
-          <li>Integrated and tested API into prototype mobile app</li>
+          <li>Contributed in development of an image generation and visual detection on augmented reality app.</li>
+          <li>Analyzed data on entity count, shade detection, activity patterns and enhanced image segmentation algorithms (YOLOv8) to
+            improve accuracy by 15%.</li>
+          <li>Migrated 1 of 3 Alteryx workflows to a Lambda function using Python (Boto3, Connectorx, Pandas), S3, and Redshift to
+            enable independence from Altery, resulting in annual savings of $8,000 per license</li>
+          <li>Developed AWS Lambda functions for MFT-to-S3 data transfer and real-time Redshift partition updates, used Terraform to
+            create S3 event notifications and DynamoDB items for workflow triggers and data partitioning, and integrated tables into
+            Redshift with PostgreSQL</li>
+        </ul>
+      </div>
+      <br>
+
+      <h3>Indian Institute of Information Technology</h3>
+      <h4>Student Researcher</h4>
+      <h4>07/2023-01/2024</h4>
+      <br>
+      <div>
+        <ul>
+          <li>Developed a molecular diffusion model for graph models research, enhancing trajectory prediction 25%.</li>
+          <li>Leveraged NVIDIA HGX supercomputer GPU cluster, reducing computational time by 35% while gaining expertise in
+            high-performance computing and large-scale machine learning deployment.</li>
+          <li>Implemented parallel Graph Attention Networks to mimic mixture of experts modelling seen in foundation LLMs, Increasing
+            model accuracy and efficiency in predicting molecular interations</li>
         </ul>
       </div>
       <br>
 
       <h3>JIO india</h3>
+      <h4>Software Developer Intern</h4>
       <h4>05/2023-07/2023</h4>
       <br>
       <div>
         <ul>
-          <li>Led migration from legacy JSP pages to React. </li>
-          <li>Implemented RESTful APIs in Spring Boot.</li>
-          <li>Reduced page load times by over 30% through efficient component-based architecture.</li>
-          <li>Coordinated with cross-functional teams to ensure smooth deployment and integration of new technologies.</li>
+          <li>Implemented Apache Kafka as an indexer in Jenkins Logstash plugin with java, routing over 10,000 daily Jenkins build logs
+            directly to Elasticsearch Kibana, enhancing CI/CD reliability and monitoring.</li>
+          <li>Adapted the core rebalanced Python script, which allocates OpenStack Nova compute to Jenkins build nodes by adjusting
+            Openstack quota, to run as a daemon, boosting responsiveness by 50%.</li>
+          <li>Developed a full-stack Flask application on top of rebalancer to monitor 5000 Jenkins build notes, manage OpenStack quota
+            requests, track project-specific rebalancer errors and integrated with a grafana dashboard for critical infrastructure
+            monitoring.</li>
+          <li>Productionalized the rebalancer application with robust error handling and deployment using Docker into a Kubernetes
+            cluster.</li>
         </ul>
       </div>
       <br>

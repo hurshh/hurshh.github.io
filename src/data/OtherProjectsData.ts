@@ -1,7 +1,7 @@
 import ProjectData from '@/data/ProjectData.ts'
 
 export default [
-    new ProjectData("project-6", "Healt-E", "https://camo.githubusercontent.com/7dce4042f91edc9126271e98e161a27d3de3f6435aad426cb22a4cfe238b9e2f/68747470733a2f2f692e696d6775722e636f6d2f507361783349712e706e67", `
+    new ProjectData("project-6", "Healt-E", "https://camo.githubusercontent.com/cd2c128b22c8e0c1af9fb7686f141072c29bc5cfbef0c8037911997cca5b7ee4/68747470733a2f2f692e696d6775722e636f6d2f507361783349712e706e67", `
     <div class="paragraph">
       <strong>HEALTH-E</strong> is a Flutter app developed as part of devHeat hackathon organized by IIIT Surat this app serves as a quick link between patients and doctors around world and puts you in touch with a doctor which can help patient in early diagnosis of the situation
       <br/><strong>Video </strong> <a href="https://drive.google.com/drive/u/0/folders/1Yrf3RDyX2q-gqVH3Is8eEKOcgtgkyynP" target="blank">Link</a>.
@@ -25,9 +25,9 @@ export default [
         </div>
 
         <div class="paragraph center">
-          <img class="phone-screenshot" src="https://camo.githubusercontent.com/3045c0aa818cbfc36064460ab66b36af65f4b4d33385e1a8dddc55b7fa17363e/68747470733a2f2f692e696d6775722e636f6d2f48337167366e4a2e706e67" alt="The Art of Walking Screenshot" />
-          <img class="phone-screenshot" src="https://camo.githubusercontent.com/404a723f8f436a95a87c33713f409ce4a5013af9c73ef94a54df322017e8dad4/68747470733a2f2f692e696d6775722e636f6d2f446d44753330582e706e67" alt="The Art of Walking Screenshot" /> 
-          <img class="phone-screenshot" src="https://camo.githubusercontent.com/0d1470d3902afc34592b41854b929f75cfab08eb84e6ff3125342add750a59a1/68747470733a2f2f692e696d6775722e636f6d2f6743774272596f2e706e67" alt="The Art of Walking Screenshot" />
+          <img class="phone-screenshot" src="https://camo.githubusercontent.com/407f46ab7f4e426c467e19c2806207127039b1b22816ce24aa5cb854e21fff8f/68747470733a2f2f692e696d6775722e636f6d2f446d44753330582e706e67" alt="The Art of Walking Screenshot" />
+          <img class="phone-screenshot" src="https://camo.githubusercontent.com/a18b368a761d245522ae77450ab9632ee9235345d54b507d5c79df7e325981dc/68747470733a2f2f692e696d6775722e636f6d2f48337167366e4a2e706e67" alt="The Art of Walking Screenshot" /> 
+          <img class="phone-screenshot" src="https://camo.githubusercontent.com/06c300fbb95fa9f94f446bea162bfc5630608af1abfbd85b71b35e614070aac2/68747470733a2f2f692e696d6775722e636f6d2f546e4c565442322e706e67" alt="The Art of Walking Screenshot" />
           <img class="phone-screenshot" src="https://user-images.githubusercontent.com/75796695/141695211-31c16f49-297e-49d6-b700-b077ffb4f4dd.png" alt="The Art of Walking Screenshot" />
            
         </div>

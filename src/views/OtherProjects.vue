@@ -1,9 +1,9 @@
 <template>
   <div>
-    <h1>Apps</h1>
+    <h1>Projects</h1>
 
     <div style="margin-bottom: 30px;">
-      Here are some of the apps I've made or heavily contributed to.
+      Here are some of the projects I've made or heavily contributed to.
     </div>
     <ProjectsList v-bind:projects="projects" />
   </div>

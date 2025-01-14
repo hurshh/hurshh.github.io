@@ -12,10 +12,11 @@
 <!--      <div style="margin-top: 40px;">If I'm not busy crafting my next masterpiece, you can find me chugging coffee and scouring the internet for the memes. You can reach me at <a href="mailto:hurshrao@gmail.com">hurshrao@gmail.com</a> or through <router-link to="/contact">here</router-link>.</div>-->
 
       <h2 style="line-height: 2">I'm <strong>Harsh Rao</strong>, a passionate game and app developer.<br> I thrive on creating innovative solutions that enhance the gaming experience, blending my technical skills with a deep love for game design.</h2>
+      <div></div>
     </div>
 
     <div class="photo">
-      <img src="img/avatar.png" alt="Avatar" />
+      <img src="img/avv.png" alt="Avatar"   height="250" width="250" />
     </div>
 
     <div style="clear:both"></div>

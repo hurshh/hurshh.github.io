@@ -16,7 +16,7 @@
       </li>
       <li>
         <i class="fa fa-linkedin fa-lg fa-fw" style="vertical-align: -5%;"></i>
-        <a href="https://www.linkedin.com/in/harsh-rao-8b97906a/" target="_blank">https://www.linkedin.com/in/harsh-rao-8b97906a/</a>
+        <a href="https://www.linkedin.com/in/hurshrao/" target="_blank">https://www.linkedin.com/in/hurshrao/</a>
       </li>
       <li>
         <i class="fa fa-github fa-lg fa-fw"></i>
