@@ -46,11 +46,9 @@ html, body {
 #app {
   background-color: @contentBgColor;
   color: @textColor;
-
   font-family: 'Karla', Helvetica, Arial, sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-
   font-size: 1.1em;
   line-height: 1.6em;
   text-align: justify;
@@ -79,8 +77,9 @@ h1 {
 }
 
 .main {
-    padding: 12px;
-  }
+  flex: 1;
+  padding: 12px;
+}
 
 @media only screen and (min-width: 620px){
 

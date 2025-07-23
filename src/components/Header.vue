@@ -15,19 +15,16 @@
 import Vue from "vue";
 
 export default Vue.extend({
-  name: "Header",
-  //   props: {
-  //     msg: String,
-  //   },
+  name: "Header"
 });
 </script>
 
 <style scoped lang="less">
-
 @import '../css/variables.less';
 
 .header {
   width: 100%;
+  background-color: #FFFFFF;  // White background for header
 }
 
 .nav-bar {
@@ -43,14 +40,24 @@ a {
   padding-bottom: 8px;
   white-space: nowrap;
   display: inline-block;
+  color: #A67F5D !important;  // Warm accent color
+  opacity: 0.8 !important;  // Slightly dimmed by default
+  transition: all 0.3s ease;
+  text-decoration: none;
+  border-bottom: 2px solid transparent;
+  font-weight: 500;
+  letter-spacing: 0.5px;
+
+  &:hover {
+    opacity: 1 !important;
+    border-bottom-color: #A67F5D;
+  }
 }
 
 .router-link-exact-active {
-  border: 0px solid @textColor;
-  border-bottom-width: 2px;
+  opacity: 1 !important;
+  border-bottom: 2px solid #A67F5D !important;  // Warm accent color for active link
 }
-
-
 
 @media only screen and (max-width: 620px){
   .nav-bar {
@@ -63,7 +70,4 @@ a {
     padding-bottom: 0px;
   }
 }
-
-
-
 </style>
