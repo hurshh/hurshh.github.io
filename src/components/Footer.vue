@@ -19,9 +19,10 @@ export default Vue.extend({
 @import '../css/variables.less';
 
 .footer {
-  background-color: #2D2B2C;
+  background-color: #F5F2EE;  // Light beige background
   width: 100%;
   margin-top: 40px;
+  border-top: 1px solid rgba(166, 127, 93, 0.1);  // Subtle separator
 }
 
 .footer-content {
@@ -67,8 +68,7 @@ export default Vue.extend({
 // Mobile view
 @media only screen and (max-width: 620px) {
   .footer {
-    background-color: #F5F2EE;  // Beige background for mobile
-    border-top: 1px solid rgba(166, 127, 93, 0.1);  // Subtle separator
+    background-color: #F5F2EE !important;  // Keep light beige in mobile
   }
 
   .footer-content {

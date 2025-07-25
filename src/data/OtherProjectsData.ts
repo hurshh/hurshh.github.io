@@ -31,7 +31,7 @@ export default [
           <img class="phone-screenshot" src="https://user-images.githubusercontent.com/75796695/141695211-31c16f49-297e-49d6-b700-b077ffb4f4dd.png" alt="The Art of Walking Screenshot" />
            
         </div>
-    `, "#c10606", false, false),
+    `, "#A67F5D", false, false),
 
 
 
@@ -59,7 +59,7 @@ export default [
             <div class="paragraph center">
                 <img class="pc-screenshot" style="width: 100%" src="https://camo.githubusercontent.com/cf46049edebe4690d751c577ce2bb7b652e188d058893c3018ff17184782d39f/68747470733a2f2f692e696d6775722e636f6d2f346873547439782e706e67" alt="Drew Blood Screenshot" />
                 
-            </div>`, "#1ca1e2", false, true),
+            </div>`, "#A67F5D", false, true),
 
 
     new ProjectData("project-9", "Draw", "https://user-images.githubusercontent.com/75796695/238177327-7d60938b-16ac-418a-95fc-a241406047dd.png", `
@@ -89,7 +89,7 @@ export default [
                 
             </div>
     
-`,"#c10606", false , true),
+`,"#A67F5D", false , true),
 
 
 
@@ -126,7 +126,7 @@ export default [
                 <img class="phone-screenshot" src="https://user-images.githubusercontent.com/75796695/236606140-18e764b0-c485-462d-aa77-877de32e637d.png" alt="The Art of Walking Screenshot" />
                 <img class="phone-screenshot" src="https://user-images.githubusercontent.com/75796695/236606163-c835569a-ff42-44b4-8135-0413f5d1203f.png" alt="The Art of Walking Screenshot" />
                 
-            </div>`,"#1ca1e2"),
+            </div>`,"#A67F5D"),
 
 
     new ProjectData("project-9", "I-dentify", "https://t4.ftcdn.net/jpg/01/91/07/63/360_F_191076314_CTJIKqBuHAqDYdZcgTiBLcrjwAHeUeBW.jpg", `
@@ -155,5 +155,5 @@ export default [
                 
             </div>
     
-`,"#c10606"),
+`,"#A67F5D"),
 ];

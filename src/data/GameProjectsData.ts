@@ -30,7 +30,7 @@ export default [
         <img class="pc-screenshot" src="img/atek_on_mars/ss1.JPG" alt="Optimistic Chubby Screenshot" />
         <img class="pc-screenshot" src="img/atek_on_mars/ss2.JPG" alt="Optimistic Chubby Screenshot" />
     </div>
-    `, "#85e0d0", false, true),
+    `, "#A67F5D", false, true),
 
     new ProjectData("project-2", "The Gatherer", "img/the_gatherer/ss1.gif",
         `
@@ -68,7 +68,7 @@ You are one of them.
         <img class="pc-screenshot" src="img/the_gatherer/ss4.png" alt="Optimistic Chubby Screenshot" />
         <img class="pc-screenshot" src="img/the_gatherer/ss3.gif" alt="Optimistic Chubby Screenshot" />        
     </div>
-    `, "#85e0d0", ),
+    `, "#A67F5D", ),
 
     new ProjectData("project-3", "Sky Line Rider", "img/skyline_rider/ss1.gif",
         `
@@ -106,7 +106,7 @@ Have fun !
         <img class="pc-screenshot" src="img/skyline_rider/ss3.png" alt="Optimistic Chubby Screenshot" />
         <img class="pc-screenshot" src="img/skyline_rider/ss2.gif" alt="Optimistic Chubby Screenshot" />        
     </div>
-    `, "#85e0d0", ),
+    `, "#A67F5D", ),
 
 
     new ProjectData("project-4", "Flappy", "img/Flappy/ss1.gif",
@@ -133,7 +133,7 @@ Have fun !
         <li>Infinite scene</li>
         </ul>
     </div>
-    `, "#85e0d0", ),
+    `, "#A67F5D", ),
 
 
     new ProjectData("project-5", "Jungle Jet", "img/Flappy/ss4.gif",
@@ -160,5 +160,5 @@ Have fun !
         <li>Infinite scene</li>
         </ul>
     </div>
-    `, "#85e0d0", )
+    `, "#A67F5D", )
 ];
